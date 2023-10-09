@@ -11,6 +11,10 @@ Silberschatz, A., Korth, H., Sudarshan, S.  (20190219). Database System Concepts
 [https://www.db-book.com/university-lab-dir/sample_tables-dir/index.html]
 
 ### SQL for table creation:   
+Filename: DDL.sql
+Linkname: DDL
+
+### SQL for table creation with drop:
 Filename: DDL+drop.sql
 Linkname: DDL with drop table
 
@@ -19,4 +23,5 @@ Filename: smallRelationsInsertFile.sql
 Linkname: SQL code for creating small relations
 
 ## Modifications
-- DDL+drop.sql: tabs replaced with space characters.
+- DDL.sql:  tabs replaced with space characters.
+- DDL+drop.sql:  tabs replaced with space characters.
